@@ -1,0 +1,87 @@
+/* colors */
+
+:root {
+    --c1: #05A2B0;
+    --c2: #ff0195;
+    --c3: #21EBFC;
+    --c4: #fcdc08;
+    --c5: #b09b0e;
+}
+/* 
+:root {
+    --c1: #b302a8;
+    --c2: #ffcb00;
+    --c3: #fc21ef;
+    --c4: #08fce0;
+    --c5: #0eb3a0;
+}
+
+:root {
+    --c1: #0cf261; 
+    --c2: #0dfcbe;
+    --c3: #00cfe6;
+    --c4: #0d92fc;
+    --c5: #1646f7;
+}
+
+:root {
+    --c1: #03588c;
+    --c2: #038c33;
+    --c3: #f2b705;
+    --c4: #f28705;
+    --c5: #f20505;
+}
+
+:root {
+    --c1: #0f4032;
+    --c2: #025928;
+    --c3: #02731e;
+    --c4: #f2e205;
+    --c5: #f2cb05;
+} */
+
+/* testing colors */
+.bg-color-1 {
+    background-color: var(--c1);
+}
+.bg-color-2 {
+    background-color: var(--c2);
+}
+.bg-color-3 {
+    background-color: var(--c3);
+}
+.bg-color-4 {
+    background-color: var(--c4);
+}
+.bg-color-5 {
+    background-color: var(--c5);
+}
+
+.color-1 {
+    color: var(--c1);
+}
+.color-2 {
+    color: var(--c2);
+}
+.color-3 {
+    color: var(--c3);
+}
+.color-4 {
+    color: var(--c4);
+}
+.color-5 {
+    color: var(--c5);
+}
+
+/* fixed heigth */
+.fixed {
+    height: 370px;
+}
+
+.tpad {
+    padding-top: 100px;
+}
+
+.foot-color {
+    background-color: #eee;
+}
